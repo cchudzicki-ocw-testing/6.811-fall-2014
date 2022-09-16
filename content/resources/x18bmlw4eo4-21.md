@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/9bc55c81556d7bd8958e385e7736389e_x18bMLW4eO4.pdf
+file: /media/courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/9bc55c81556d7bd8958e385e7736389e_x18bMLW4eO4.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

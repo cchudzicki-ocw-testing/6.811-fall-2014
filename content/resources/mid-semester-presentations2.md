@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '1264'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '32'
 title: Mid-Semester Presentations (Paul)
 uid: dc87c104-b665-7665-6949-badec2dc16c6
 video_files:

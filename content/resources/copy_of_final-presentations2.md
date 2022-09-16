@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '1644'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '1023'
 title: Final Presentations (Chris)
 uid: 66ea0e15-958c-0a92-a661-16aca25b49f6
 video_files:

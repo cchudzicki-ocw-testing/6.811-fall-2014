@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '6572'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '5765'
 title: Final Presentations (Art)
 uid: 763bfa2a-10e5-56ec-1ee7-46f4786dc9b5
 video_files:

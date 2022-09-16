@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4796'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '3747'
 title: Mid-Semester Presentations (Jeffrey)
 uid: 11169c09-9661-31c3-a152-b3244297a3f5
 video_files:

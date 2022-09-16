@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4937'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '4136'
 title: Final Presentations (Margaret)
 uid: 9bde2ee2-1a3e-b2f3-9061-aa1386ce1a56
 video_files:

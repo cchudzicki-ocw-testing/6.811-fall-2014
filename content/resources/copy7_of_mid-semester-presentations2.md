@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '8627'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '7830'
 title: Mid-Semester Presentations (Chris)
 uid: 860af3dc-a370-a914-5607-8f5bcf9163d7
 video_files:

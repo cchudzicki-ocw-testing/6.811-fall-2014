@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '7319'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '6573'
 title: Final Presentations (Paul)
 uid: 12e3db52-8ec9-20f5-e33c-28256d114b34
 video_files:

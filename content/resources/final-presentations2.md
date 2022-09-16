@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '1022'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '88'
 title: Final Presentations (Kate)
 uid: 984dc61c-97ad-8b4a-06b2-84dd2efa9237
 video_files:

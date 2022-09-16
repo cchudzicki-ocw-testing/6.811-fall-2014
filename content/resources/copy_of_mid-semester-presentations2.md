@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '2716'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '1265'
 title: Mid-Semester Presentations (Margaret)
 uid: 1a5aa565-fd55-4600-fc88-e8547a704695
 video_files:

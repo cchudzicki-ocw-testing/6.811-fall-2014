@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4135'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '3363'
 title: Final Presentations (Felicity)
 uid: eb0c9b5e-963c-099e-5c40-c683acf603fc
 video_files:

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '5764'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '4938'
 title: Final Presentations (Beverley-Ann)
 uid: 1db1d278-a09e-7eff-d924-9baafd0326ea
 video_files:
